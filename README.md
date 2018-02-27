@@ -1,1 +1,1 @@
-# Maven-and-JUnit
+# Maven-and-JUnit-Tutorial
