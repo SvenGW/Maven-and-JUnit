@@ -34,18 +34,4 @@ public class AppTest {
 		int result = underTest.divide(100, 50);
 		assertEquals(2, result);
 	}
-/*	@Test
-	public void testDivide() 
-	{
-		App underTest = new App();
-		int result = underTest.divide(100, 50);
-		assertEquals(2, result);
-	}
-	@Test
-	public void testDivide() 
-	{
-		App underTest = new App();
-		int result = underTest.divide(100, 50);
-		assertEquals(2, result);
-	}*/
 }
