@@ -20,7 +20,7 @@ public class App {
 	{
 		return x + y;
 	}
-	int substract(int x, int y) 
+	int subtract(int x, int y) 
 	{
 		return x - y;
 	}
